@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="@color/lavender_light"
+    android:padding="16dp"
+    tools:context=".fragments.SplashScreenFragment">
+
+    <ImageView
+        android:id="@+id/app_logo"
+        android:layout_width="120dp"
+        android:layout_height="120dp"
+        android:layout_centerInParent="true"
+        android:src="@drawable/todologo" />
+
+    <TextView
+        android:id="@+id/app_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/app_logo"
+        android:layout_centerHorizontal="true"
+        android:text="Firebase To Do App"
+        android:textColor="@color/lavender_dark"
+        android:textSize="28sp"
+        android:fontFamily="@font/lexendsemibold" />
+
+    <TextView
+        android:id="@+id/tagline"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/app_name"
+        android:layout_centerHorizontal="true"
+        android:text="Plan. Do. Achieve."
+        android:textColor="@color/black"
+        android:textSize="16sp"
+        android:fontFamily="@font/lexendsemibold" />
+
+</RelativeLayout>

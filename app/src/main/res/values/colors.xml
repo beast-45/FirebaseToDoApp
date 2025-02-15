@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="lavender_light">#E6E6FA</color>
+    <color name="lavender_dark">#6A5ACD</color>
+    <color name="lavender_medium">#C8A2C8</color>
+    <color name="lavender_standard">#967BB6</color>
+    <color name="lavender_dark2">#7A5C91</color>
+    <color name="lavender_deep_dark">#5E3A6B</color>
+    <color name="purple_light">#D8BFD8</color>
+    <color name="purple_medium">#BA55D3</color>
+    <color name="purple_standard">#800080</color>
+    <color name="purple_dark">#6A0DAD</color>
+    <color name="purple_deep_dark">#4B0082</color>
+
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="SquareRoundedFAB">
+        <item name="cornerSize">12dp</item> <!-- Adjust roundness -->
+    </style>
+
+</resources>
